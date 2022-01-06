@@ -1,0 +1,131 @@
+body{
+    font-family: 'Poppins', sans-serif;
+    margin: 0;
+
+}
+section
+{
+    font-size: 17px;
+    text-align: justify;
+}
+.x{
+    border-left: 3px solid;
+    padding-left: 10px;
+    border-color:#d35c3ef5;
+    border-image-slice: 2;
+}
+.flexbox{
+    display: flex;
+    margin-bottom: 130px;
+}
+.half-width{
+    width: 60%;
+    padding-left: 10%;
+    padding-top: 5%;
+}
+.half-width img{
+    width: 70%;
+}
+.spnclr{
+    color: #d080ff;
+   
+}
+.btn{
+    text-decoration: none;
+    background-image: linear-gradient(rgba(0, 195, 255, 0.911),#4b41cfdc);
+    padding: 10px 20px;
+    color: white;
+    font-weight: 500;
+    border-radius: 5px;
+    margin-bottom: 70px;
+    
+}
+.btnn{
+    margin-bottom: 40px;
+}
+.psccroll{
+    font-size: 13px;
+}
+.msn22{
+    text-align: center;
+}
+.msnclr{
+    color: rgb(255, 175, 71);
+}
+.flex-container{
+    display: flex;
+    padding-left: 13%;
+    
+}
+.c  img{
+    width: 40%;
+}
+.d  img{
+    width: 40%;
+}
+.e  img{
+    width: 40%;
+}
+
+.flxone{
+    background-color: rgb(191, 210, 216);
+    padding: 10px;
+    max-width: 25%;
+    border-radius: 10px;
+    margin: 10px;
+}
+.flxtwo{
+    background-color: rgba(110, 95, 160, 0.692);
+    padding: 10px;
+    max-width: 25%;
+    border-radius: 10px;
+    margin: 10px;
+}
+.flxthree{
+    background-color: rgba(255, 217, 127, 0.787);
+    padding: 10px;
+    max-width: 25%;
+    border-radius: 10px;
+    margin: 10px;
+}
+.f{
+    display: flex;
+}
+.half-width2 img{
+    width: 60%;
+    padding-left: 32%;
+}
+.half-width2{
+    width: 50%;
+    padding-right: 10%;
+    padding-top: 5%;
+}
+.sec4{
+    margin-top: -10%;
+    padding-left: 2%;
+    text-align: justify;
+    padding-right: 2%;
+    padding-bottom: 1%;
+}
+.blog{
+    color: black;
+   
+    
+}
+.ftrr{
+    text-align: center;
+    color: blanchedalmond;
+    
+    
+}
+.ftr{
+    height: 100px;
+    padding-top: 5%;
+    background-color: rgba(0, 0, 0);
+   
+}
+.ftrrp{
+    text-align: center;
+    color: blanchedalmond;
+    font-size: x-small;
+}
